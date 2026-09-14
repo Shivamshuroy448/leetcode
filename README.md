@@ -15,4 +15,9 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0009-palindrome-number](https://github.com/Shivamshuroy448/leetcode/tree/master/0009-palindrome-number) |
+| [0836-rectangle-overlap](https://github.com/Shivamshuroy448/leetcode/tree/master/0836-rectangle-overlap) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/Shivamshuroy448/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
